@@ -1,0 +1,222 @@
+#drop-detail{
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+}
+.Cms {
+    width: 1440px;
+    height: 1128px;
+    position: relative;
+    background: white;
+}
+
+.LgoDeAlteraEs {
+    left: 379px;
+    top: 35px;
+    position: absolute;
+    color: black;
+    font-size: 28px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.BotO {
+    width: 148px;
+    height: 50px;
+    left: 381px;
+    top: 1048px;
+    position: absolute;
+}
+
+.Rectangle12,
+.BackgroundSidebar {
+    position: absolute;
+    background: #8B8B8B;
+}
+
+.Atualizar {
+    left: 46px;
+    top: 16px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Tabela {
+    width: 1029px;
+    height: 173px;
+    left: 381px;
+    top: 100px;
+    position: absolute;
+}
+
+.Rectangle13 {
+    width: 1029px;
+    height: 173px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border: 1px #D9D9D9 solid;
+}
+
+.Documento {
+    width: 415px;
+    height: 18px;
+    left: 19px;
+    position: absolute;
+}
+
+.Documento1 { top: 98px; }
+.Documento2 { top: 141px; }
+.Documento3 { 
+    width: 727px; 
+    height: 60px; 
+    top: 11px; 
+}
+
+.Simone, .JoOCarlos, .UploadDeDocumentoRealizado, .TTuloAlterado, .SubtTuloAlterado, .AlteraO {
+    position: absolute;
+    color: black;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    word-wrap: break-word;
+}
+
+.Simone, .JoOCarlos {
+    left: 365px;
+    font-weight: 500;
+}
+
+.UploadDeDocumentoRealizado, .TTuloAlterado, .SubtTuloAlterado {
+    left: 0px;
+    font-weight: 500;
+}
+
+.UploadDeDocumentoRealizado, .JoOCarlos { top: 42px; }
+
+.TTuloAlterado, .SubtTuloAlterado, .Simone { top: 0px; }
+
+.AlteraO {
+    left: 0px;
+    top: 0px;
+    font-weight: 700;
+}
+
+.QuemAlterouContainer, .MaisDetalhes, .Line {
+    position: absolute;
+    font-family: 'DM Sans', sans-serif;
+    word-wrap: break-word;
+}
+
+.QuemAlterou, .Detalhes {
+    left: 365px;
+    top: 0px;
+    color: black;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.Detalhes { left: 666px; }
+
+.MaisDetalhes {
+    left: 685px;
+    color: #8B8B8B;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.MaisDetalhes1 { top: 98px; }
+.MaisDetalhes2 { top: 141px; }
+.MaisDetalhes3 { top: 53px; }
+
+.Line {
+    width: 1029px;
+    height: 0px;
+    left: 0px;
+    border: 1px #D9D9D9 solid;
+}
+
+.Line1 { top: 86px; }
+.Line2 { top: 129px; }
+.Line3 { top: 41px; }
+
+.Sidebar {
+    width: 356px;
+    height: 1128px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.BackgroundSidebar1, .BackgroundSidebar2, .OlJoO, .FazerLogout, .Menu, .Home, .Ellipse {
+    position: absolute;
+    font-family: 'DM Sans', sans-serif;
+    word-wrap: break-word;
+}
+
+.BackgroundSidebar1 {
+    width: 356px;
+    height: 1128px;
+    left: 0px;
+    top: 0px;
+    background: #D9D9D9;
+}
+
+.BackgroundSidebar2 {
+    width: 356px;
+    height: 77px;
+    left: 0px;
+    top: 322px;
+    background: #C9C9C9;
+}
+
+.OlJoO {
+    left: 126px;
+    top: 71px;
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.FazerLogout {
+    left: 126px;
+    top: 133px;
+    color: #8B8B8B;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.Menu1, .Menu2, .Ellipse {
+    left: 30px;
+    top: 251px;
+}
+
+.Menu2 { top: 339px; }
+
+.Home, .LogDeAlteracoes {
+    left: 66px;
+    top: 7px;
+    color: black;
+    font-size: 24px;
+}
+
+.Home { font-weight: 700; }
+
+.LogDeAlteracoes { font-weight: 500; }
+
+.Ellipse1, .Ellipse2 {
+    width: 45px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+    background: #BEB0B0;
+    border-radius: 9999px;
+}

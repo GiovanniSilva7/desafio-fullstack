@@ -1,0 +1,119 @@
+.Cms{
+    width: 1440px; height: 1128px; position: relative; background: white;
+}
+.Home{
+    left: 379px; top: 35px; position: absolute; color: black; font-size: 28px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+}
+.Header{
+    width: 1029px; height: 233px; left: 381px; top: 106px; position: absolute;
+    left: 0px; top: 0px; position: absolute; color: #818181; font-size: 24px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+}
+.TTulo{
+    left: 0px; top: 0px; position: absolute; color: #6A6A6A; font-size: 14px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+    resize: none;
+    white-space: pre-line;
+    outline: none;
+}
+.ImagemDeFundo{
+    width: 502px; height: 183px; left: 527px; top: 50px; position: absolute;
+}
+.Background{
+    width: 502px; height: 155px; left: 0px; top: 28px; position: absolute; background: white; border: 2px #D9D9D9 solid;
+}
+.ArrasteESolteAImagemOuCliqueAqui{
+    left: 121px; top: 91px; position: absolute;
+    color: #9A9A9A; font-size: 14px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+    color: #9A9A9A; font-size: 14px; font-family: DM Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word;
+}
+
+.ImagemDeFundo{
+    left: 0px; top: 0px; position: absolute; color: #6A6A6A; font-size: 14px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+    width: 502px; height: 183px; left: 527px; top: 50px; position: absolute
+}
+.CorDoTexto{
+    width: 502px; height: 78px; left: 0px; top: 155px; position: absolute;
+}
+.TerraplanagemSustentVel{
+    left: 19px; top: 30px; position: absolute;  word-wrap: break-word; width: 460px; height: 30px; border-color: #D9D9D9;
+    resize: none;
+    white-space: pre-line;
+    outline: none;
+}
+.ODesafioDaVez{
+    left: 19px; top: 28px; position: absolute; word-wrap: break-word; width: 460px; height: 30px; border-color: #D9D9D9;
+    resize: none;
+    white-space: pre-line;
+    outline: none;
+}
+.ArrasteESolteAImagemOuCliqueAqui{
+    left: 121px; top: 91px; position: absolute; color: #9A9A9A; font-size: 14px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+    color: #9A9A9A; font-size: 14px; font-family: DM Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word;
+}
+.edit-conteudo{
+    width: 10px; height: 100px; border: none; outline: none;
+    left: 25px; margin-top: -60px; position: absolute; color: black; font-size: 14px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+    resize: none; word-wrap: break-word;
+    white-space: pre-line;
+
+}
+.SobreODesafio{
+    left: 0px; top: 0px; color: #818181; font-size: 24px; font-family: DM Sans; font-weight: 500; word-wrap: break-word; display: inline-block;
+}
+#drop-area {
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+  }
+.UploadDeNovoDocumento{
+    left: 25px; top: 16px; position: absolute; text-align: center; color: #8B8B8B; font-size: 14px; font-family: DM Sans; font-weight: 400; word-wrap: break-word;
+}  
+#drop-doc{
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+}
+#logout{
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+}
+.FazerLogout{
+    left: 126px; top: 133px; position: absolute; color: #8B8B8B; font-size: 18px; font-family: DM Sans; font-weight: 500; text-decoration: underline; word-wrap: break-word;
+}
+.Sobre{
+    height: 311px; left: 381px; top: 374px; position: absolute;
+}
+
+.Ellipse2{
+    width: 45px; height: 45px; left: 0px; top: 0px; position: absolute; background: #BEB0B0; border-radius: 9999px;
+  }
+
+  .LogDeAlteraEs{
+    left: 66px; top: 7px; position: absolute; color: black; font-size: 24px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+  }
+  .Menu{
+    width: 267px; height: 45px; left: 30px; top: 339px; position: absolute;
+  }
+
+  .Ellipse1{
+    width: 45px; height: 45px; left: 0px; top: 0px; position: absolute; background: #BEB0B0; border-radius: 9999px;
+  }
+
+  .Home{
+    left: 66px; top: 7px; position: absolute; color: black; font-size: 24px; font-family: DM Sans; font-weight: 700; word-wrap: break-word;
+  }
+  .Menu{
+    width: 135px; height: 45px; left: 30px; top: 251px; position: absolute;
+  }
+
+
+  .OlJoO{
+    left: 126px; top: 71px; position: absolute; color: black; font-size: 24px; font-family: DM Sans; font-weight: 500; word-wrap: break-word;
+  }
+
+  .BackgroundSidebar{
+    width: 356px; height: 77px; left: 0px; top: 234px; position: absolute; background: #C9C9C9;
+  }

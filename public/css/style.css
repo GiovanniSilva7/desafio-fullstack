@@ -1,0 +1,451 @@
+body{
+    color: white;
+    background-color: white;
+    
+    }
+         ul {
+            padding: 0;
+            float: right;/* Largura do menu */
+        }
+
+        .nav-item li {
+            margin: 5px 0;
+            display: inline-block;
+        }
+
+        .nav-item a{
+            display: block;
+            margin-right: 50px;
+            color: white; /* Cor do texto do menu */
+            padding: 10px;
+            color: #1A374D;
+            text-decoration: none;
+            text-align: right; /* Alinhar o texto à esquerda */
+        }
+
+        .nav-img {
+            display: inline-block;
+            position: flex;
+            width: 100%;
+            height: 100%;
+            background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0), url(image6.png));
+            background-size: cover;
+            background-position: center center;
+          }
+          .paragrafo1{
+            position: absolute;
+            top: 331px;
+            right: 120px;
+            left: 20px;
+            font-size: 40px;
+            color: #EDDEAF;
+          }
+          .paragrafo2{
+            position: absolute;
+            top: 364px;
+            right: 120px;
+            left: 20px;
+            font-style: Ubuntu;
+            font-size: 40px;
+            color: #FFFFFF;
+            ;
+          }
+          .paragrafo3{
+            position: absolute;
+            top: 400px;
+            right: 120px;
+            left: 20px;
+            font-size: 40px;
+            color: #FFFFFF;
+            ;
+          }
+          .conteudo{
+            text-align: justify;
+            margin-top: 100px;
+            margin-right: 83px;
+            margin-left: 83px;
+
+          }
+          .conteudo h2{
+            color: #1A374D;
+          }
+          .conteudo p{
+            color: black;
+          }
+
+          .container{
+            display: inline-block;
+            width: 1550px;
+            height: 731px;
+            background-color: #1A374D;
+            
+        }
+
+        .container h2{
+            margin-top: 50px;
+            margin-left: 50px;
+        }
+        
+
+        section .card .image{
+            height: 140px;
+            width: 140px;
+            padding: 3px;
+            background-color: #FFFFFF;
+        }
+
+        section .card .image img{
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            margin-left: 15px;
+            margin-right: 30px;
+        }
+        .card{
+            background: #FFFFFF;
+            border-radius: 5px;
+            margin-left: 40px;
+            margin-top: 80px;
+            width: 280px;
+            height: 45%;
+        }
+
+        .card .card-content{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 30px;
+            position: relative;
+            z-index: 100;
+            
+        }
+
+
+        button{
+            margin-left: 20px;
+            margin-top: 10px;
+            background-color: #2D719F;
+            ; /* Cor de fundo do botão */
+            color: #fff; /* Cor do texto do botão */
+            padding: 10px 20px; /* Espaçamento interno do botão */
+            border: none; /* Remove a borda padrão do botão */
+            border-radius: 5px; /* Adiciona bordas arredondadas ao botão */
+            cursor: pointer;
+        }
+        .name{
+                color: black;
+                margin-top: 30px;
+        }
+     
+        .Home{
+          width: 1550px; height: 2124px; position: relative; background: white;
+        
+        }
+        .DocumentosDeSuporte{
+          width: 1550px; height: 731px; left: 0px; top: 1393px; position: absolute;
+        }
+        .Rectangle53{
+          width: 1550px; height: 731px; left: 0px; top: 0px; position: absolute; background: #1A374D;
+        }
+        .Group345{
+          width: 314px; height: 337px; left: 231px; top: 216px; position: absolute;
+        }
+        .Rectangle51{
+          width: 314px; height: 337px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 4px;
+        }
+        .TTuloDoDocumento{
+          width: 254px; height: 70px; left: 30px; top: 158px; position: absolute; text-align: center; color: #1A374D; font-size: 28px; font-family: Ubuntu; font-weight: 400; word-wrap: break-word;
+        }
+
+        .Group66{
+          width: 280.05px; height: 46px; left: 16.97px; top: 270px; position: absolute;
+        }
+        .Rectangle53{
+          width: 280.05px; height: 45.62px; left: 0px; top: 0px; position: absolute; background: #2D719F; border-radius: 4px;
+        }
+        .Baixar{
+          width: 277px; height: 45.42px; left: 2.03px; top: 0.58px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Ubuntu; font-weight: 500; word-wrap: break-word;
+        }
+        .Group99{
+          width: 58.46px; height: 63.20px; left: 128px; top: 53px; position: absolute;
+        }
+        .Vector{
+          width: 42.63px; height: 45.77px; left: 0px; top: 17.44px; position: absolute; background: #2D719F;
+        
+        }
+        .Vector4{
+          width: 44.66px; height: 47.95px; left: 4.06px; top: 10.46px; position: absolute; background: white;
+        }
+        .TextSnippet{
+          width: 56.84px; height: 61.02px; left: 1.62px; top: 0px; position: absolute;
+        }
+        .Vector{
+          width: 42.63px; height: 45.77px; left: 7.10px; top: 7.63px; position: absolute; background: #2D719F;
+        }
+        .Group346{
+          width: 314px; height: 337px; left: 622px; top: 216px; position: absolute;
+        }
+        .Rectangle51{
+          width: 314px; height: 337px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 4px;
+        }
+        .TTuloDoDocumento{
+          width: 254px; height: 70px; left: 30px; top: 158px; position: absolute; text-align: center; color: #1A374D; font-size: 28px; font-family: Ubuntu; font-weight: 400; word-wrap: break-word;
+        }
+        .Group66{
+          width: 280.05px; height: 46px; left: 16.97px; top: 270px; position: absolute;
+        }
+        .Rectangle53{
+          width: 280.05px; height: 45.62px; left: 0px; top: 0px; position: absolute; background: #2D719F; border-radius: 4px;
+        }
+
+        .Baixar{
+          width: 277px; height: 45.42px; left: 2.03px; top: 0.58px; position: absolute; text-align: center; color: white; font-size: 18px; font-family: Ubuntu; font-weight: 500; word-wrap: break-word;
+        }
+
+        .Group99 {
+          width: 58.46px;
+          height: 63.20px;
+          position: absolute;
+      }
+      
+      .Group99 .Vector {
+          width: 42.63px;
+          height: 45.77px;
+          position: absolute;
+          background: #2D719F;
+      }
+      
+      .Group99 .Vector4 {
+          width: 44.66px;
+          height: 47.95px;
+          left: 4.06px;
+          position: absolute;
+          background: white;
+      }
+      
+      .Group99 .TextSnippet {
+          width: 56.84px;
+          height: 61.02px;
+          left: 1.62px;
+          position: absolute;
+      }
+      
+      .Group347 {
+          width: 314px;
+          height: 337px;
+          left: 1013px;
+          top: 216px;
+          position: absolute;
+      }
+      
+      .Rectangle51 {
+          width: 314px;
+          height: 337px;
+          position: absolute;
+          background: white;
+          border-radius: 4px;
+      }
+      
+      .TTuloDoDocumento {
+          width: 254px;
+          height: 70px;
+          left: 30px;
+          top: 158px;
+          position: absolute;
+          text-align: center;
+          color: #1A374D;
+          font-size: 28px;
+          font-family: Ubuntu;
+          font-weight: 400;
+          word-wrap: break-word;
+      }
+      
+      .Group66 {
+          width: 280.05px;
+          height: 46px;
+          left: 16.97px;
+          top: 270px;
+          position: absolute;
+      }
+      
+      .Rectangle53 {
+          width: 280.05px;
+          height: 45.62px;
+          position: absolute;
+          background: #2D719F;
+          border-radius: 4px;
+      }
+      
+      .Baixar {
+          width: 277px;
+          height: 45.42px;
+          left: 2.03px;
+          top: 0.58px;
+          position: absolute;
+          text-align: center;
+          color: white;
+          font-size: 18px;
+          font-family: Ubuntu;
+          font-weight: 500;
+          word-wrap: break-word;
+      }
+      
+      .DocumentosDeSuporte {
+          width: 522px;
+          left: 80px;
+          top: 80px;
+          position: absolute;
+          color: white;
+          font-size: 33px;
+          font-family: Ubuntu;
+          font-weight: 700;
+          word-wrap: break-word;
+      }
+      
+      .Frame30 {
+          width: 309.27px;
+          height: 6px;
+          left: 620px;
+          top: 623px;
+          position: absolute;
+          justify-content: flex-start;
+          align-items: flex-start;
+          gap: 8px;
+          display: inline-flex;
+      }
+      
+      .Rectangle56, .Rectangle57, .Rectangle58, .Rectangle59, .Rectangle60, .Rectangle61, .Rectangle62, .Rectangle63 {
+          width: 31.66px;
+          height: 6px;
+          border-radius: 7px;
+      }
+      
+      .Rectangle56 {
+          background: #79BEDF;
+      }
+      
+      .Rectangle57, .Rectangle58, .Rectangle59, .Rectangle60, .Rectangle61, .Rectangle62, .Rectangle63 {
+          opacity: 0.30;
+          background: #79BEDF;
+      }
+      .Frame31 {
+        width: 56px;
+        height: 56px;
+        padding: 16px;
+        left: 1414px;
+        top: 346px;
+        position: absolute;
+        background: rgba(255, 248, 221, 0.69);
+        border-radius: 4px;
+        justify-content: center;
+        align-items: center;
+        gap: 24px;
+        display: inline-flex;
+      }
+      
+      .ArrowForwardIos {
+        width: 24px;
+        height: 24px;
+        position: relative;
+      }
+      
+      .Vector {
+        width: 11.77px;
+        height: 20px;
+        left: 6.11px;
+        top: 2px;
+        position: absolute;
+        background: #1A374D;
+      } 
+      .Vitrine {
+        width: 1550px;
+        height: 583px;
+        left: 0px;
+        top: 104px;
+        position: absolute;
+      }
+      
+      .Image5, .Image6 {
+        width: 1550px;
+        height: 583px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+      }
+      
+      .Image6 {
+        border-top-left-radius: 4px;
+        border-top-right-radius: 4px;
+      }
+      
+      .Overlay {
+        width: 1550px;
+        height: 583px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        background: linear-gradient(90deg, rgba(0, 0, 0, 0.69) 8%, rgba(17, 41, 59, 0) 100%);
+      }
+      .Texto {
+        width: 411px;
+        height: 125px;
+        left: 81px;
+        top: 227px;
+        position: absolute;
+      }
+      
+      .TerraplanagemSustentVel {
+        width: 406px;
+        left: 0px;
+        top: 33px;
+        position: absolute;
+        color: white;
+        font-size: 40.02px;
+        font-family: Ubuntu;
+        font-weight: 400;
+        word-wrap: break-word;
+      }
+      
+      .ODesafioDaVez {
+        width: 411px;
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        color: #EDDEAF;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: 400;
+        line-height: 24.73px;
+        word-wrap: break-word;
+      }
+      
+      .SobreODesafio {
+        width: 1274px;
+        height: 575px;
+        left: 80px;
+        top: 763px;
+        position: absolute;
+      }
+      
+      .SobreODesafio,
+      .DocumentosDeSuporte {
+        color: #1A374D;
+        font-size: 18px;
+        font-family: Ubuntu;
+        font-weight: 400;
+        word-wrap: break-word;
+        position: absolute;
+      }
+      
+      .Logo {
+        left: 80px;
+        top: 16px;
+        position: absolute;
+        color: #1A374D;
+        font-size: 64px;
+        font-family: Ubuntu;
+        font-weight: 700;
+        word-wrap: break-word;
+      }
+
+        
